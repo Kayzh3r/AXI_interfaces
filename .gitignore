@@ -1,0 +1,11 @@
+# Log files
+*.log
+
+# Matlab files (Slxc files, mat files, ...)
+*.slxc
+*.mat
+*/slprj/*
+*/generation/*
+
+# HDF5 files for testing
+*.h5
